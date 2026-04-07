@@ -1,0 +1,26 @@
+---
+permalink: /legal.html
+layout: page
+---
+
+<style type="text/css" media="screen">
+  .container {
+    margin: 10px auto;
+    max-width: 900px;
+    text-align: center;
+  }
+  h1 {
+    margin: 30px 0;
+    font-size: 4em;
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+</style>
+
+<div class="container">
+  <h3 class="section-heading text-uppercase">{{ site.data.sitetext.legal.title }}</h3>
+  <p>{{ site.data.sitetext.legal.policy | markdownify }}</p>
+  <br><br>
+  <h3 class="section-heading text-uppercase">{{ site.data.sitetext.legal.creditstitle }}</h3>
+  <p>{{ site.data.sitetext.legal.creditsbody | markdownify }}</p>
+</div>
