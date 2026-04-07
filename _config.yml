@@ -1,8 +1,9 @@
 #theme: jekyll-agency
 remote_theme: raviriley/agency-jekyll-theme
 
-url    : "https://salorant.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/reelreviews" # the subpath of your site, e.g. /blog
+domain : salorant.github.io
+url    : https://salorant.github.io # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /reelreviews # the subpath of your site, e.g. /blog
 
 title      : Reel Reviews
 description: "An Android app for reviewing and rating movies."
