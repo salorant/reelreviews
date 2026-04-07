@@ -6,7 +6,7 @@ url    : https://salorant.github.io # the base hostname & protocol for your site
 baseurl: /reelreviews # the subpath of your site, e.g. /blog
 
 title      : Reel Reviews
-description: "An Android app for reviewing and rating movies."
+description: "The only film app you'll ever need."
 author     : Tristan Saloranta
 
 locale: "en-CA"
