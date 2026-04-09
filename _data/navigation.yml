@@ -1,4 +1,7 @@
 nav:
+  - title: "Vision"
+    section: vision
+
   - title: "Features"
     section: features
 

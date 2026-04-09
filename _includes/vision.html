@@ -1,0 +1,18 @@
+<!-- vision -->
+  <section class="bg-light page-section" id="{{ site.data.sitetext.vision.section | default: vision }}">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase">{{ site.data.sitetext.vision.title | default: vision statement }}</h2>
+		</div>
+		<div class="col-lg-1"></div>
+		<div class="col-lg-10 text-justify">
+          {% if site.data.sitetext.features.text %}
+		  <p class="text-muted">{{ site.data.sitetext.vision.text }}</p>
+		  {% endif %}
+        </div>
+		<div class="col-lg-1"></div>
+      </div>	  
+    </div>
+  </section>
+<!-- End vision -->
