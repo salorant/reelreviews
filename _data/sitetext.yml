@@ -86,7 +86,6 @@ postmortem-brief:
 team:
     title: "OUR AMAZING TEAM"
     text: "Meet the people behind Reel Reviews."
-    subtext: "### reel reviews. real people."
     section: team
     people:
       - name: "Aryan Pandhare"
@@ -117,6 +116,8 @@ team:
     
 footer:
     legal: "Privacy Policy"
+    slogan: "### reel reviews. real people."
+
 
 legal:
     title: "Privacy Policy"
