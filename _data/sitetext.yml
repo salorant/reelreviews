@@ -76,7 +76,7 @@ postmortem-brief:
     section: postmortem-brief
     text: "Reflecting on our development process."
     button: Read More
-    buttonlink: "/postmortem"
+    buttonlink: "./postmortem"
 
 team:
     title: "OUR AMAZING TEAM"
