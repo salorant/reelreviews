@@ -98,7 +98,7 @@ team:
         role: "UI/UX Developer"
         image: assets/img/team/efe.jpg
         alt: "Poster for Space Jam: A New Legacy"
-        bio: "Placeholder bio."
+        bio: "Efe designed and programmed much of the Reel Reviews app user interface, including the main navigation, user and movie profiles, and search page. He contributed to our testing team by writing end-to-end tests and helped to refactor the presentation layer. This project was a good opportunity for Efe to build his software development, design, and version control skills. He also learned how to build Android UIs in Java/XML and to write tests using Espresso."
       - name: "Nigel Amara"
         role: "Java/SQL Developer"
         image: assets/img/team/nigel.jpg
@@ -113,7 +113,7 @@ team:
         role: "UI/UX/Web Developer"
         image: assets/img/team/tristan.jpg
         alt: "Poster for Godzilla"
-        bio: "Tristan helped design and program the Reel Reviews user interface. He built the review and review editor pages, and helped to refine and refactor navigation logic across the app. He also developed this website and edited the demo reel. He improved his ability to refactor code, learned how to design Android UIs using Fragments and Activities in Java, and learned web development and hosting using Jekyll and GitHub Pages. Over the course of this project, he gained valuable experience working on a programming team and maintaining a shared codebase using Git."
+        bio: "Tristan helped design and program the Reel Reviews user interface. He built the review and review editor pages, and helped to refine and refactor navigation logic across the app. He also developed this website and edited the demo reel. He improved his ability to refactor code, learned how to design Android UIs using Fragments and Activities in Java, and learned web development and hosting using Jekyll, HTML, CSS, Bootstrap, and GitHub Pages. Over the course of this project, Tristan gained valuable experience working on a programming team and maintaining a shared codebase using Git."
     
 footer:
     legal: "Privacy Policy"
@@ -126,4 +126,12 @@ legal:
 
 postmortem:
     title: "Postmortem"
-    body: "This is the body text.<br>**Markdown is supported.**"
+    subtitle: "A reflection on four months of development."
+    heading-1: "Strengths"
+    body-1: "One of the biggest strengths that we were able to bring to the table as a team was our ability to communicate. From the beginning, all of us put in the effort to set up communication channels and actually *use* them, and we all feel that it paid off successfully for us. We used our project's Discord server continously throughout the development cycle, and we feel that this really helped us to stay on top of our deadlines and keep the big picture in mind. Another strength of our team was our testing team. We developed our project with testing in mind, and this helped us to ensure our codebase remained functional. There were times when a change we pushed broke our app, but our robust test suite caught the error and made us aware of the issue immediately."
+    heading-2: "Weaknesses"
+    body-2: "Our biggest weaknesses were a bit paradoxical. We both tended to overestimate the amount of time features would take to implement *and* planned for a larger number of features than we were able to implement in the end. We believe that this occurred due to a combination of not realizing what correct estimates would look like, and overlooking the less visible tasks that would end up eating up much of our development time (our initial time estimates didn't include any refactoring, design meetings, etc.). However, our estimation improved over the course of the project as we gained comfort and familiarity with our development process. Overall, we wish we could have delivered more of the features we had initially hoped, but we accept that we were a bit starry-eyed back in January."
+    heading-3: "Unexpected Challenges"
+    body-3: "We certainly weren't expecting just *how much* the class GitLab would slow down in the hours leading up to each iteration deadline. There were times when we were cleaning up our issue tracker, only to need to wait what felt like ten minutes for a single issue to load. This mostly impacted us at the end of Iteration 2, but we were fortunately able to submit everything before the deadline. Another challenge we faced was with older computers struggling to run our more complex tests efficiently - this made implementing our end-to-end tests a slower process than it could have been."
+    heading-4: "What We'd Do Differently"
+    body-4: "If we had the chance to re-do this project from the beginning, we would want to improve our crossover between teams. We ended up with a fairly siloed development process, with our team members divided between a business/persistence layer team and a presentation layer team. With more cross-over from the beginning, we could all have approached the later stages of the project with a better holistic understanding of our system. That approach would also have benefited us with the opportunity to broaden our skill sets. Another change we would have made would have been to start with reviews and ratings instead of implementing the search function first. This is because, first and foremost, Reel Reviews is an app for movie reviews. As our core feature, the review system should have been our top priority as soon as we started coding."
