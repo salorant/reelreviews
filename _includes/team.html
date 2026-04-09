@@ -11,7 +11,7 @@
   {% for person in site.data.sitetext.team.people %}
 	<div class="col-sm">
 	  <div class="team-member">
-		<img class="mx-auto rounded-circle" src="{{ person.image }}" alt="">
+		<img class="mx-auto h-100" src="{{ person.image }}" alt="{{ person.alt }}">
 		<h5><br>{{ person.name }}</h5>
 		<p class="text-muted">{{ person.role }}</p>
 		<p class="text-center">{{ person.bio | markdownify }}</p>

@@ -86,28 +86,33 @@ postmortem-brief:
 team:
     title: "OUR AMAZING TEAM"
     text: "Meet the people behind Reel Reviews."
-    subtext: "### reel reviews. reel people."
+    subtext: "### reel reviews. real people."
     section: team
     people:
       - name: "Aryan Pandhare"
         role: "Java/SQL Developer"
         image: assets/img/team/aryan.jpg
+        alt: "Poster for The Lord of the Rings: The Fellowship of the Ring"
         bio: "This is a bio."
       - name: "Efe Battal"
         role: "UI/UX Developer"
         image: assets/img/team/efe.jpg
+        alt: "Poster for The Lord of the Rings: The Two Towers"
         bio: "This is a bio."
       - name: "Nigel Amara"
         role: "Java/SQL Developer"
         image: assets/img/team/nigel.jpg
+        alt: "Poster for Spider-Man: Into the Spider-Verse"
         bio: "This is a bio."
       - name: "Prithvi Soni"
         role: "Java/SQL Developer"
         image: assets/img/team/prithvi.jpg
+        alt: "Poster for The Lord of the Rings: The Return of the King"
         bio: "This is a bio."
       - name: "Tristan Saloranta"
         role: "UI/UX/Web Developer"
         image: assets/img/team/tristan.jpg
+        alt: "Poster for Godzilla"
         bio: "This is a bio."
     
 footer:
