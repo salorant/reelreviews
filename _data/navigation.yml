@@ -8,5 +8,8 @@ nav:
   - title: "About"
     section: timeline
 
+  - title: "Postmortem"
+    section: postmortem-brief
+
   - title: "Team"
     section: team
