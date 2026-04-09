@@ -92,28 +92,28 @@ team:
       - name: "Aryan Pandhare"
         role: "Java/SQL Developer"
         image: assets/img/team/aryan.jpg
-        alt: "Poster for The Lord of the Rings: The Fellowship of the Ring"
-        bio: "This is a bio."
+        alt: "Poster for The Dark Knight"
+        bio: "Aryan's main contribution to the project was helping to build the application, persistence, and business layers of the Reel Reviews app, as well as the search feature. He wrote many of our unit and end-to-end tests and contributed to refactoring our codebase. He learned how to write tests in JUnit and Espresso, further refined his database design skills, and built up greater familiarity with standard programming design patterns."
       - name: "Efe Battal"
         role: "UI/UX Developer"
         image: assets/img/team/efe.jpg
-        alt: "Poster for The Lord of the Rings: The Two Towers"
-        bio: "This is a bio."
+        alt: "Poster for Space Jam: A New Legacy"
+        bio: "Placeholder bio."
       - name: "Nigel Amara"
         role: "Java/SQL Developer"
         image: assets/img/team/nigel.jpg
         alt: "Poster for Spider-Man: Into the Spider-Verse"
-        bio: "This is a bio."
+        bio: "Nigel spent the majority of his time creating the business layer services for the Reel Reviews app. He was also responsible for writing many of our unit and integration tests. In the process of doing so, Nigel learned how to write comprehensive test suites using JUnit and Mockito. He built up his test-writing and test-driven-development skills over the course of this project, and gained valuable experience helping improve our app in response to feedback. Nigel also wrote the script for our demo video and provided the voiceover narration."
       - name: "Prithvi Soni"
         role: "Java/SQL Developer"
         image: assets/img/team/prithvi.jpg
         alt: "Poster for The Lord of the Rings: The Return of the King"
-        bio: "This is a bio."
+        bio: "Prithvi's contributions to the Reel Reviews project were focused on the persistence layer and the backend database. His chief responsibility was writing most of the SQL queries used by our features, and he also implemented the sort service. He played a key role in keeping our database layer stable, and this helped ensure that our transition from a mock database to a real one was seamless and required no major changes. Prithvi greatly strengthened his understanding of SQL and databases throughout this project. He also gained valuable hands-on experience using Git in a team environment, improving his version control and collaboration skills."
       - name: "Tristan Saloranta"
         role: "UI/UX/Web Developer"
         image: assets/img/team/tristan.jpg
         alt: "Poster for Godzilla"
-        bio: "This is a bio."
+        bio: "Tristan helped design and program the Reel Reviews user interface. He built the review and review editor pages, and helped to refine and refactor navigation logic across the app. He also developed this website and edited the demo reel. He improved his ability to refactor code, learned how to design Android UIs using Fragments and Activities in Java, and learned web development and hosting using Jekyll and GitHub Pages. Over the course of this project, he gained valuable experience working on a programming team and maintaining a shared codebase using Git."
     
 footer:
     legal: "Privacy Policy"
